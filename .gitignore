@@ -6,6 +6,7 @@ webapps/
 !**/src/test/**/target/
 bin/
 obj/
+obj/**/*
 
 ######################
 # Eclipse
