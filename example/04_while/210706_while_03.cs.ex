@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace exAlgorithm
 {
@@ -15,7 +14,7 @@ namespace exAlgorithm
                 if(temp == i) break;
                 else count++;
             }
-            
+
             Console.WriteLine(count);
         }
     }
